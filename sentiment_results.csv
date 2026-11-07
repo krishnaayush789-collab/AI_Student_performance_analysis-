@@ -1,0 +1,201 @@
+Student_ID,Feedback,Sentiment,Polarity
+STU001,I have difficulty understanding Science topics.,Neutral,0.0
+STU002,I have difficulty understanding Science topics.,Neutral,0.0
+STU003,I find my classes interesting and helpful.,Positive,0.5
+STU004,My classes are going normally.,Positive,0.15
+STU005,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU006,I am happy with my academic performance.,Positive,0.4
+STU007,I need additional support from my teachers.,Neutral,0.0
+STU008,I find Mathematics very difficult.,Negative,-0.65
+STU009,I am happy with my academic performance.,Positive,0.4
+STU010,My classes are going normally.,Positive,0.15
+STU011,I want to improve my academic performance.,Neutral,0.0
+STU012,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU013,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU014,I need additional support from my teachers.,Neutral,0.0
+STU015,I am working on improving my attendance.,Neutral,0.0
+STU016,I want to improve my academic performance.,Neutral,0.0
+STU017,I find my classes interesting and helpful.,Positive,0.5
+STU018,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU019,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU020,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU021,I am working on improving my attendance.,Neutral,0.0
+STU022,I find Mathematics very difficult.,Negative,-0.65
+STU023,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU024,I enjoy learning and understand my subjects well.,Positive,0.4
+STU025,I find my classes interesting and helpful.,Positive,0.5
+STU026,I am happy with my academic performance.,Positive,0.4
+STU027,I find my classes interesting and helpful.,Positive,0.5
+STU028,I find Mathematics very difficult.,Negative,-0.65
+STU029,I enjoy learning and understand my subjects well.,Positive,0.4
+STU030,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU031,I find Mathematics very difficult.,Negative,-0.65
+STU032,I am working on improving my attendance.,Neutral,0.0
+STU033,I enjoy learning and understand my subjects well.,Positive,0.4
+STU034,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU035,I find Mathematics very difficult.,Negative,-0.65
+STU036,I want to improve my academic performance.,Neutral,0.0
+STU037,I find Mathematics very difficult.,Negative,-0.65
+STU038,I find Mathematics very difficult.,Negative,-0.65
+STU039,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU040,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU041,I find Mathematics very difficult.,Negative,-0.65
+STU042,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU043,I have difficulty understanding Science topics.,Neutral,0.0
+STU044,My classes are going normally.,Positive,0.15
+STU045,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU046,I find my classes interesting and helpful.,Positive,0.5
+STU047,I have difficulty understanding Science topics.,Neutral,0.0
+STU048,I find my classes interesting and helpful.,Positive,0.5
+STU049,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU050,I am working on improving my attendance.,Neutral,0.0
+STU051,I need additional support from my teachers.,Neutral,0.0
+STU052,I find my classes interesting and helpful.,Positive,0.5
+STU053,I enjoy learning and understand my subjects well.,Positive,0.4
+STU054,I need more practice to improve my marks.,Positive,0.5
+STU055,I have difficulty understanding Science topics.,Neutral,0.0
+STU056,I enjoy learning and understand my subjects well.,Positive,0.4
+STU057,I find Mathematics very difficult.,Negative,-0.65
+STU058,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU059,I enjoy learning and understand my subjects well.,Positive,0.4
+STU060,I need more practice to improve my marks.,Positive,0.5
+STU061,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU062,I enjoy learning and understand my subjects well.,Positive,0.4
+STU063,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU064,I need additional support from my teachers.,Neutral,0.0
+STU065,I need additional support from my teachers.,Neutral,0.0
+STU066,I need more practice to improve my marks.,Positive,0.5
+STU067,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU068,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU069,I need more practice to improve my marks.,Positive,0.5
+STU070,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU071,I am working on improving my attendance.,Neutral,0.0
+STU072,I find Mathematics very difficult.,Negative,-0.65
+STU073,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU074,I need additional support from my teachers.,Neutral,0.0
+STU075,I find Mathematics very difficult.,Negative,-0.65
+STU076,I need additional support from my teachers.,Neutral,0.0
+STU077,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU078,I am working on improving my attendance.,Neutral,0.0
+STU079,I find Mathematics very difficult.,Negative,-0.65
+STU080,I enjoy learning and understand my subjects well.,Positive,0.4
+STU081,My classes are going normally.,Positive,0.15
+STU082,I find my classes interesting and helpful.,Positive,0.5
+STU083,I find Mathematics very difficult.,Negative,-0.65
+STU084,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU085,I need additional support from my teachers.,Neutral,0.0
+STU086,I have difficulty understanding Science topics.,Neutral,0.0
+STU087,My classes are going normally.,Positive,0.15
+STU088,I enjoy learning and understand my subjects well.,Positive,0.4
+STU089,I am working on improving my attendance.,Neutral,0.0
+STU090,I am happy with my academic performance.,Positive,0.4
+STU091,I find Mathematics very difficult.,Negative,-0.65
+STU092,My classes are going normally.,Positive,0.15
+STU093,I enjoy learning and understand my subjects well.,Positive,0.4
+STU094,I want to improve my academic performance.,Neutral,0.0
+STU095,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU096,I need more practice to improve my marks.,Positive,0.5
+STU097,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU098,I need more practice to improve my marks.,Positive,0.5
+STU099,I want to improve my academic performance.,Neutral,0.0
+STU100,I find Mathematics very difficult.,Negative,-0.65
+STU101,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU102,I want to improve my academic performance.,Neutral,0.0
+STU103,I want to improve my academic performance.,Neutral,0.0
+STU104,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU105,I need more practice to improve my marks.,Positive,0.5
+STU106,I am happy with my academic performance.,Positive,0.4
+STU107,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU108,I need additional support from my teachers.,Neutral,0.0
+STU109,I want to improve my academic performance.,Neutral,0.0
+STU110,I find Mathematics very difficult.,Negative,-0.65
+STU111,I have difficulty understanding Science topics.,Neutral,0.0
+STU112,I find my classes interesting and helpful.,Positive,0.5
+STU113,I find Mathematics very difficult.,Negative,-0.65
+STU114,I am happy with my academic performance.,Positive,0.4
+STU115,I want to improve my academic performance.,Neutral,0.0
+STU116,I enjoy learning and understand my subjects well.,Positive,0.4
+STU117,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU118,I want to improve my academic performance.,Neutral,0.0
+STU119,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU120,I want to improve my academic performance.,Neutral,0.0
+STU121,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU122,I have difficulty understanding Science topics.,Neutral,0.0
+STU123,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU124,My classes are going normally.,Positive,0.15
+STU125,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU126,I need more practice to improve my marks.,Positive,0.5
+STU127,I am happy with my academic performance.,Positive,0.4
+STU128,I am happy with my academic performance.,Positive,0.4
+STU129,I am working on improving my attendance.,Neutral,0.0
+STU130,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU131,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU132,I enjoy learning and understand my subjects well.,Positive,0.4
+STU133,I need additional support from my teachers.,Neutral,0.0
+STU134,I have difficulty understanding Science topics.,Neutral,0.0
+STU135,I am working on improving my attendance.,Neutral,0.0
+STU136,I have difficulty understanding Science topics.,Neutral,0.0
+STU137,I find my classes interesting and helpful.,Positive,0.5
+STU138,I need more practice to improve my marks.,Positive,0.5
+STU139,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU140,I need additional support from my teachers.,Neutral,0.0
+STU141,I need additional support from my teachers.,Neutral,0.0
+STU142,My classes are going normally.,Positive,0.15
+STU143,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU144,I need more practice to improve my marks.,Positive,0.5
+STU145,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU146,I need more practice to improve my marks.,Positive,0.5
+STU147,I am happy with my academic performance.,Positive,0.4
+STU148,I need more practice to improve my marks.,Positive,0.5
+STU149,I am working on improving my attendance.,Neutral,0.0
+STU150,I am working on improving my attendance.,Neutral,0.0
+STU151,My classes are going normally.,Positive,0.15
+STU152,My classes are going normally.,Positive,0.15
+STU153,My classes are going normally.,Positive,0.15
+STU154,I have difficulty understanding Science topics.,Neutral,0.0
+STU155,I find my classes interesting and helpful.,Positive,0.5
+STU156,I enjoy learning and understand my subjects well.,Positive,0.4
+STU157,I am happy with my academic performance.,Positive,0.4
+STU158,I find my classes interesting and helpful.,Positive,0.5
+STU159,I find my classes interesting and helpful.,Positive,0.5
+STU160,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU161,I have difficulty understanding Science topics.,Neutral,0.0
+STU162,I am working on improving my attendance.,Neutral,0.0
+STU163,I am working on improving my attendance.,Neutral,0.0
+STU164,I find my classes interesting and helpful.,Positive,0.5
+STU165,I find Mathematics very difficult.,Negative,-0.65
+STU166,I need more practice to improve my marks.,Positive,0.5
+STU167,I have difficulty understanding Science topics.,Neutral,0.0
+STU168,I want to improve my academic performance.,Neutral,0.0
+STU169,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU170,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU171,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU172,I need additional support from my teachers.,Neutral,0.0
+STU173,I find my classes interesting and helpful.,Positive,0.5
+STU174,My classes are going normally.,Positive,0.15
+STU175,I find my classes interesting and helpful.,Positive,0.5
+STU176,I am happy with my academic performance.,Positive,0.4
+STU177,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU178,I am happy with my academic performance.,Positive,0.4
+STU179,I am working on improving my attendance.,Neutral,0.0
+STU180,I want to improve my academic performance.,Neutral,0.0
+STU181,I enjoy learning and understand my subjects well.,Positive,0.4
+STU182,I find Mathematics very difficult.,Negative,-0.65
+STU183,I have difficulty understanding Science topics.,Neutral,0.0
+STU184,I am happy with my academic performance.,Positive,0.4
+STU185,I am happy with my academic performance.,Positive,0.4
+STU186,I am working on improving my attendance.,Neutral,0.0
+STU187,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU188,I need additional support from my teachers.,Neutral,0.0
+STU189,I have difficulty understanding Science topics.,Neutral,0.0
+STU190,My teachers explain every topic clearly.,Neutral,0.09999999999999999
+STU191,I need more practice to improve my marks.,Positive,0.5
+STU192,I enjoy learning and understand my subjects well.,Positive,0.4
+STU193,I am happy with my academic performance.,Positive,0.4
+STU194,I find Mathematics very difficult.,Negative,-0.65
+STU195,I want to improve my academic performance.,Neutral,0.0
+STU196,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU197,I am working on improving my attendance.,Neutral,0.0
+STU198,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU199,Some subjects are easy and some are difficult.,Neutral,-0.033333333333333326
+STU200,I find Mathematics very difficult.,Negative,-0.65
